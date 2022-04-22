@@ -1,4 +1,4 @@
-const randomNumber = require('../lib/random.js');
+const randomNumber = require('./random.js');
 
 // test that expects the function checkIfEqual to be truthy when given 10 and 10 as arguments
 test('gets random number between 1 and 10', () => {
